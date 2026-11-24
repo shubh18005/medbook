@@ -1,0 +1,80 @@
+studyId,group,doctorId,submittedAt,overallRating,ratingDoctor,ratingStaff,ratingWaiting,ratingCleanliness,ratingBilling,freeText,wordCount,aspectsMentioned,detailD,uniquenessU,consistencyC,qualityQ,gatePassed,rewardType,rewardStatus
+SA001,A,1,2026-10-20T10:00:00,5,,,,,,honest feedback: billing was transparent but the staff was polite and helpful aand doctor did the usual checkup,18,0,0,1,1,0.8413,True,points,granted
+SA010,A,1,2026-10-20T10:00:00,5,,,,,,i visited last week. the room was tidy and the staff was polite and helpful and the chargees were reasonable bt i waited for some time but the doctor did not explain the medicine,34,0,0,1,1,1,True,points,granted
+SA013,A,1,2026-10-20T10:00:00,5,,,,,,"i visited last week. fees were not expensive. the waiting area as messy and smelly, also the doctor explained everyting ceary, also the attendants were supportive. the queue moved quickly",30,0,0,1,1,1,True,points,granted
+SA014,A,1,2026-10-20T10:00:00,5,,,,,,my experiennce: the staff was okay bu there was no delay at all,13,0,0,1,1,0.752,True,points,granted
+SA015,A,1,2026-10-20T10:00:00,5,,,,,,the wait was not short at all but billing was okay but hygine wa poor. reception staff was not rude and hlped me quickkly. the doctor was okay,28,0,0,1,1,1,True,points,granted
+SA019,A,1,2026-10-20T10:00:00,4,,,,,,doctor was friendly and professional but reception staff was unhelpful,10,0,0,1,1,0.5765,False,points,granted
+SA021,A,1,2026-10-20T10:00:00,5,,,,,,the clinic was clean but the attendants were supportive andd the charges were reasonable and doctor listened to me carefully. the queue was slow and crowded,26,0,0,1,1,1,True,points,granted
+SA023,A,1,2026-10-20T10:00:00,5,,,,,,"ii visited last week. doctor did the usual checkup, also i waited for hours but the charges were average, staff id their jb",23,0,0,1,1,0.9998,True,points,granted
+SA025,A,1,2026-10-20T10:00:00,2,,,,,,"staff bbehaviour was normal, the bill was clear and the linic was dirty and doctor did te usal checkup and the wait was not short t all",27,0,0,1,1,1,True,points,granted
+SA028,A,1,2026-10-20T10:00:00,5,,,,,,good,1,0,0,1,1,0.3572,False,points,granted
+SA032,A,1,2026-10-20T10:00:00,5,,,,,,"billing waas okay. overall staff behaviour was normal, waiting time was okay",12,0,0,1,1,0.7216,False,points,granted
+SA035,A,1,2026-10-20T10:00:00,3,,,,,,"my experience: payment was smooth, alsoo staff behaviour was unprofessional",10,0,0,1,1,0.6298,False,points,granted
+SB000,B,1,2026-10-20T10:00:00,4,,,,,,cleanliness was normal,3,0,0,1,1,0.412,False,points,granted
+SB001,B,1,2026-10-20T10:00:00,4,,,,,,,0,0,0,1,1,0.4257,False,points,granted
+SB003,B,1,2026-10-20T10:00:00,5,,,,,,"staff behaviour was normal and he wait was not long. the doctor explained everything clearly. overall wshrooms were not dirty and well kept, payment was smooth",26,0,0,1,1,1,True,points,granted
+SB004,B,1,2026-10-20T10:00:00,5,,,,,,good,1,0,0,1,1,0.392,False,points,granted
+SB007,B,1,2026-10-20T10:00:00,4,,,,,,hygienee was excellent,3,0,0,1,1,0.3791,False,points,granted
+SB009,B,1,2026-10-20T10:00:00,5,,,,,,"the doctor was very good, allso waiting time was short",10,0,0,1,1,0.6366,False,points,granted
+SB010,B,1,2026-10-20T10:00:00,4,,,,,,i visited last week. reception staff was not rude and helped me uickly,13,0,0,1,1,0.7462,False,points,granted
+SB011,B,1,2026-10-20T10:00:00,4,,,,,,"my experience: billing was transparent. reception staff was nhelpful, cleanliness was normal",12,0,0,1,1,0.7025,False,points,granted
+SB012,B,1,2026-10-20T10:00:00,5,,,,,,my xperience: billing was transparent but doctor did the usual checkup and cleanliness was okay and i waited for some time,21,0,0,1,1,0.9425,True,points,granted
+SB013,B,1,2026-10-20T10:00:00,4,,,,,,my experience: billing was transparent but the staff was rude,10,0,0,1,1,0.7371,False,points,granted
+SB014,B,1,2026-10-20T10:00:00,5,,,,,,my experience: the bill was clear and doctor was not helpful at all but waiting time was average,18,0,0,1,1,0.8586,True,points,granted
+SB015,B,1,2026-10-20T10:00:00,5,,,,,,,0,0,0,1,1,0.3274,False,points,granted
+SB017,B,1,2026-10-20T10:00:00,4,,,,,,the wait was no long. overall doctor was careless and rushed,11,0,0,1,1,0.7685,True,points,granted
+SB019,B,1,2026-10-20T10:00:00,5,,,,,,"doctor listened to me carefully, payment was smooth",8,0,0,1,1,0.6007,False,points,granted
+SB023,B,1,2026-10-20T10:00:00,4,,,,,,the fees were overpriced. clenliness was nora,7,0,0,1,1,0.597,False,points,granted
+SB025,B,1,2026-10-20T10:00:00,1,,,,,,good,1,0,0,1,1,0.4956,False,points,granted
+SB027,B,1,2026-10-20T10:00:00,5,,,,,,staff were friendly,3,0,0,1,1,0.5358,False,points,granted
+SB030,B,1,2026-10-20T10:00:00,2,,,,,,"my experience: doctor was not helpful at all, also the room was tidy. the waiting tie was ver long",19,0,0,1,1,0.8153,True,points,granted
+SB031,B,1,2026-10-20T10:00:00,5,,,,,,"honest feedback: staff behavour was normaal, i waited for hours, also billing was transparent, docto was careless and rushed",19,0,0,1,1,0.9427,True,points,granted
+SB032,B,1,2026-10-20T10:00:00,3,,,,,,"my experience: doctor was careless and rushed, the bill was clear and the staff was polite and helpful, hygiene was poor",21,0,0,1,1,1,True,points,granted
+SB033,B,1,2026-10-20T10:00:00,1,,,,,,"honest feedback: consultation with the doctor was fine, also the wait was not long. overall billing was okay and the staff was rude, washrooms were filthy",26,0,0,1,1,1,True,points,granted
+SB038,B,1,2026-10-20T10:00:00,5,,,,,,honest feedback: the wait was normal. overall hygiene was excellent and doctor was friendly and professional,16,0,0,1,1,0.8751,True,points,granted
+SB039,B,1,2026-10-20T10:00:00,3,,,,,,my experience: the waiting area was spotless. the staff was rude buut doctor was not helpful at aall,18,0,0,1,1,0.7953,True,points,granted
+SC004,C,1,2026-10-20T10:00:00,5,,,,,,good,1,0,0,1,1,0.3309,False,points,granted
+SC006,C,1,2026-10-20T10:00:00,5,,,,,,nice doctor,2,0,0,1,1,0.4234,False,points,granted
+SC009,C,1,2026-10-20T10:00:00,5,,,,,,my experiencce: cleanlines was okay. the bill was not clear ut the staff was rude,15,0,0,1,1,0.7482,False,points,granted
+SC011,C,1,2026-10-20T10:00:00,3,,,,,,i viited last week. waiting time was short. the staff was rude,12,0,0,1,1,0.7287,False,points,granted
+SC013,C,1,2026-10-20T10:00:00,2,,,,,,"my experience: staff ignored me at the cuntter, washrooms were not dirty and wel kept and i waited for hours",20,0,0,1,1,0.9402,True,points,granted
+SC014,C,1,2026-10-20T10:00:00,5,,,,,,"consultation with the doctor wwas fine, there was a big deelay, lo stff behaviour was normal",16,0,0,1,1,0.8385,True,points,granted
+SC015,C,1,2026-10-20T10:00:00,5,,,,,,"the staff was rudde, also doctor was friendly and professional and waiting time was short",15,0,0,1,1,0.7625,True,points,granted
+SC016,C,1,2026-10-20T10:00:00,5,,,,,,good,1,0,0,1,1,0.4763,False,points,granted
+SC022,C,1,2026-10-20T10:00:00,5,,,,,,"the waiting time was very long. overall the bill was clear. overall staff behaviour was normal, also the room waas tidy",21,0,0,1,1,0.9458,True,points,granted
+SC023,C,1,2026-10-20T10:00:00,4,,,,,,"my experience: doctor was not helpful at all, the clinic was clean",12,0,0,1,1,0.7291,False,points,granted
+SC024,C,1,2026-10-20T10:00:00,4,,,,,,nice doctor,2,0,0,1,1,0.464,False,points,granted
+SC026,C,1,2026-10-20T10:00:00,1,,,,,,"i waitedd for hours and staff behaviour was unprofessional bt the charges were reasonable and doctor did the usual checkup, the waiting area was messy and smelly",27,0,0,1,1,1,True,points,granted
+SC032,C,1,2026-10-20T10:00:00,4,,,,,,hygiene was excellent,3,0,0,1,1,0.4779,False,points,granted
+SC033,C,1,2026-10-20T10:00:00,2,,,,,,"the bill was clear, the doctor was neither good nor bad, staff ignored me at the counter, the clinic was average in hygiene",23,0,0,1,1,1,True,points,granted
+SC034,C,1,2026-10-20T10:00:00,5,,,,,,,0,0,0,1,1,0.3172,False,points,granted
+SC035,C,1,2026-10-20T10:00:00,2,,,,,,the wait was not long but cleanliness was normal and staff ignored me at the counter,16,0,0,1,1,0.8308,True,points,granted
+SC036,C,1,2026-10-20T10:00:00,5,,,,,,staff behaviour was normmal and washrooms were not dirty and well kept,12,0,0,1,1,0.7365,False,points,granted
+SC038,C,1,2026-10-20T10:00:00,5,,,,,,"doctor was not rushed and answered all my questins, also payment was smooth, also reception was average",17,0,0,1,1,0.7563,True,points,granted
+SD000,D,1,2026-10-20T10:00:00,3,,,,,,honest feedback: the fees were overpriced and reception was average,10,0,0,1,1,0.6601,False,points,granted
+SD002,D,1,2026-10-20T10:00:00,5,,,,,,"my exprience: the charges were average bu the doctor eplained everything clearly and i was seen on time, staff ignord me at the counter",24,0,0,1,1,0.9579,True,points,granted
+SD004,D,1,2026-10-20T10:00:00,5,,,,,,"i visited last week. the doctor was neither good nor bad and billing was transparent, also the waiting time was very long",22,0,0,1,1,1,True,points,granted
+SD005,D,1,2026-10-20T10:00:00,4,,,,,,,0,0,0,1,1,0.4706,False,points,granted
+SD006,D,1,2026-10-20T10:00:00,1,,,,,,billing was confusing bu washrooms were filthy. overall doctor did not listen to me,14,0,0,1,1,0.7252,False,points,granted
+SD007,D,1,2026-10-20T10:00:00,5,,,,,,,0,0,0,1,1,0.4239,False,points,granted
+SD008,D,1,2026-10-20T10:00:00,2,,,,,,the room was not clean,5,0,0,1,1,0.5229,False,points,granted
+SD009,D,1,2026-10-20T10:00:00,5,,,,,,"hoest feedback: staff ignored me at the counter, the charges were average. overall the doctor did not explain thee medicine, i waited for some time",25,0,0,1,1,1,True,points,granted
+SD010,D,1,2026-10-20T10:00:00,5,,,,,,"i visiteed last week. i waited for hours, also payment was smooth. doctor was careless and rusheed",17,0,0,1,1,0.8289,True,points,granted
+SD011,D,1,2026-10-20T10:00:00,4,,,,,,nice doctor,2,0,0,1,1,0.3967,False,points,granted
+SD015,D,1,2026-10-20T10:00:00,5,,,,,,"rreception staff was ot rude and helped me quickly. overall the waiting area was spotless, also the doctor waas neither good nor bad",23,0,0,1,1,0.9314,True,points,granted
+SD016,D,1,2026-10-20T10:00:00,5,,,,,,the doctor was caring and thoough,6,0,0,1,1,0.5798,False,points,granted
+SD017,D,1,2026-10-20T10:00:00,4,,,,,,"i visited last week. staff did their job, the charges were reasonable",12,0,0,1,1,0.6267,False,points,granted
+SD018,D,1,2026-10-20T10:00:00,4,,,,,,i visited last week. the charges were reasonable. doctor did not lisen to me and the clinic was clean,19,0,0,1,1,0.8411,True,points,granted
+SD021,D,1,2026-10-20T10:00:00,5,,,,,,"the bill waas clear, also the doctor did not explain tthe medicie. the wait wass normal. overall reception staff was not rude and helped me quickly",26,0,0,1,1,0.9503,True,points,granted
+SD022,D,1,2026-10-20T10:00:00,5,,,,,,my experience: the room was tiddy,6,0,0,1,1,0.5125,False,points,granted
+SD023,D,1,2026-10-20T10:00:00,5,,,,,,the clinic was clean nd the doctor as dismissive but the bill was clear and the staff was okay,19,0,0,1,1,0.8834,True,points,granted
+SD024,D,1,2026-10-20T10:00:00,5,,,,,,"my experience: the doctor explained everything clearly, washrooms ere filthy and front desk was very courteous but thhe bill was clearr",21,0,0,1,1,0.8548,True,points,granted
+SD027,D,1,2026-10-20T10:00:00,3,,,,,,cleanliness was normal. overall the staff was okay,8,0,0,1,1,0.6018,False,points,granted
+SD032,D,1,2026-10-20T10:00:00,5,,,,,,"the doctor explaineed everything clearly, the wait was not long but billig was transpparent. staff did their job",18,0,0,1,1,0.9238,True,points,granted
+SD033,D,1,2026-10-20T10:00:00,5,,,,,,,0,0,0,1,1,0.3537,False,points,granted
+SD035,D,1,2026-10-20T10:00:00,5,,,,,,good,1,0,0,1,1,0.4071,False,points,granted
+SD036,D,1,2026-10-20T10:00:00,3,,,,,,i visited last week. i was overcharged,7,0,0,1,1,0.654,False,points,granted
+SD037,D,1,2026-10-20T10:00:00,4,,,,,,good,1,0,0,1,1,0.3905,False,points,granted
+SD038,D,1,2026-10-20T10:00:00,4,,,,,,,0,0,0,1,1,0.3569,False,points,granted
+SD039,D,1,2026-10-20T10:00:00,3,,,,,,"the doctor did not explain the medicine but tthe waiting area was spotless but there was no delay at all and the fees were overpriced, the staff was okay",29,0,0,1,1,1,True,points,granted

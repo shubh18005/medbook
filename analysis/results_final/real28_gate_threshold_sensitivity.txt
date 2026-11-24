@@ -1,0 +1,10 @@
+theta=0.5 C-source=lexicon  pass=25/28 (89%) meanQ=0.792
+theta=0.5 C-source=model    pass=26/28 (93%) meanQ=0.792
+theta=0.6 C-source=lexicon  pass=22/28 (79%) meanQ=0.792
+theta=0.6 C-source=model    pass=23/28 (82%) meanQ=0.781
+theta=0.7 C-source=lexicon  pass=20/28 (71%) meanQ=0.792
+theta=0.7 C-source=model    pass=20/28 (71%) meanQ=0.781
+theta=0.75 C-source=lexicon  pass=16/28 (57%) meanQ=0.792
+theta=0.75 C-source=model    pass=15/28 (54%) meanQ=0.781
+theta=0.85 C-source=lexicon  pass=14/28 (50%) meanQ=0.792
+theta=0.85 C-source=model    pass=13/28 (46%) meanQ=0.792

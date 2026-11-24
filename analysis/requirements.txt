@@ -1,0 +1,11 @@
+# core (TF-IDF baseline, statistics, pipeline, serve)
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+joblib
+pytest
+# only for the DistilBERT/BERT model (bert_model.py)
+torch
+transformers

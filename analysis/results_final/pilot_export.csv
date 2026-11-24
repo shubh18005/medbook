@@ -1,0 +1,70 @@
+studyId,group,doctorId,submittedAt,overallRating,ratingDoctor,ratingStaff,ratingWaiting,ratingCleanliness,ratingBilling,freeText,wordCount,aspectsMentioned,detailD,uniquenessU,consistencyC,qualityQ,gatePassed,rewardType,rewardStatus
+SA009,A,1,2026-11-19T10:00:00,4,,,,,,"Facility of hospital was satisfying",5,0,0.125,1.0,0.5,0.5,false,none,not_applicable
+SA010,A,1,2026-11-19T10:00:00,3,,,,,,"Average visit. Nothing great, nothing terrible.",6,0,0.125,1.0,1.0,0.65,false,none,not_applicable
+SA012,A,1,2026-11-19T10:00:00,5,,,,,,"The doctor and staff were polite and helpful. The clinic was clean, and I did not have to wait for a long time. Overall, it was a good experience.",29,4,1.0,1.0,1.0,1.0,true,none,not_applicable
+SA017,A,1,2026-11-19T10:00:00,2,,,,,,"The OPD was disorganised, people were pushing and shouting, no proper queue system.",13,1,0.4917,1.0,0.5,0.6467,false,none,not_applicable
+SA019,A,1,2026-11-19T10:00:00,5,,,,,,"Very good tritment",3,0,0.075,1.0,1.0,0.63,false,none,not_applicable
+SA026,A,1,2026-11-19T10:00:00,2,,,,,,"Staff ka behaviour bahut kharab tha, koi sahi se baat nahi karta.",12,1,0.4667,1.0,1.0,0.7867,true,none,not_applicable
+SA033,A,1,2026-11-19T10:00:00,4,,,,,,"Very clean hospital, floors were spotless and the waiting hall had proper seating.",13,2,0.6583,1.0,1.0,0.8633,true,none,not_applicable
+SA039,A,1,2026-11-19T10:00:00,4,,,,,,"Waiting thoda tha lekin chalta hai, doctor ne achhe se dekha.",11,2,0.6083,1.0,1.0,0.8433,true,none,not_applicable
+SB000,B,1,2026-11-19T10:00:00,3,,,,,,"nice",1,0,0.025,0.0,1.0,0.31,false,points,granted
+SB002,B,1,2026-11-19T10:00:00,5,,,,,,"best",1,0,0.025,0.0,0.5,0.16,false,points,granted
+SB003,B,1,2026-11-19T10:00:00,5,,,,,,"good",1,0,0.025,0.0,0.5,0.16,false,points,granted
+SB005,B,1,2026-11-19T10:00:00,3,,,,,,"Doctor was average, nothing special. Staff was okay.",8,2,0.5083,1.0,1.0,0.8033,true,points,granted
+SB006,B,1,2026-11-19T10:00:00,5,,,,,,"best",1,0,0.025,0.0,0.5,0.16,false,points,granted
+SB007,B,1,2026-11-19T10:00:00,2,,,,,,"Overcharged for a simple consultation. Fee was 800 rupees for 3 minutes.",12,2,0.6083,1.0,1.0,0.8433,true,points,granted
+SB008,B,1,2026-11-19T10:00:00,4,,,,,,"good",1,0,0.025,0.0,0.5,0.16,false,points,granted
+SB009,B,1,2026-11-19T10:00:00,2,,,,,,"Doctor checked me properly and explained the medicines. Reception was slow though and I waited almost an hour.",18,3,0.925,1.0,1.0,0.97,true,points,granted
+SB014,B,1,2026-11-19T10:00:00,5,,,,,,"Good management and all everything is nice",7,0,0.175,1.0,1.0,0.67,false,points,granted
+SB015,B,1,2026-11-19T10:00:00,4,,,,,,"best",1,0,0.025,0.0,0.5,0.16,false,points,granted
+SB016,B,1,2026-11-19T10:00:00,5,,,,,,"",0,0,0.0,0.0,0.0,0.0,false,points,granted
+SB017,B,1,2026-11-19T10:00:00,1,,,,,,"The long wait, dirty chairs and rude reception made me want to leave.",13,3,0.825,1.0,1.0,0.93,true,points,granted
+SB019,B,1,2026-11-19T10:00:00,2,,,,,,"dirty dirty dirty",3,1,0.1917,1.0,1.0,0.6767,false,points,granted
+SB021,B,1,2026-11-19T10:00:00,5,,,,,,"Fee was fair and they gave a proper receipt.",9,1,0.3917,1.0,1.0,0.7567,true,points,granted
+SB024,B,1,2026-11-19T10:00:00,2,,,,,,"The doctor did not even look at me, just wrote a prescription in two minutes. Very disappointing.",17,1,0.5917,1.0,0.5,0.6867,false,points,granted
+SB028,B,1,2026-11-19T10:00:00,3,,,,,,"Check-up was alright. Doctor said what he had to say. Fee was normal.",14,2,0.6583,1.0,1.0,0.8633,true,points,granted
+SB029,B,1,2026-11-19T10:00:00,1,,,,,,"I was given a token and told to wait. The wait was 3 hours but nobody updated us. Staff did not bother. Rooms had a bad smell too.",28,3,1.0,1.0,1.0,1.0,true,points,granted
+SB033,B,1,2026-11-19T10:00:00,5,,,,,,"The receptionist was very polite and guided me to the right department.",12,1,0.4417,1.0,1.0,0.7767,true,points,granted
+SB036,B,1,2026-11-19T10:00:00,5,,,,,,"Dawai ke paise zyada the lekin doctor bahut ache the.",10,1,0.3917,1.0,0.5,0.6067,false,points,granted
+SB037,B,1,2026-11-19T10:00:00,4,,,,,,"My last visit to the hospital was satisfactory because the doctor was very understanding and the overall cleanliness of the facility was excellent. However, the waiting time at the reception was quite long, and the billing department took a lot of time to process the payment. Despite the delay, the helpful and polite nature of the support staff made the overall experience manageable.",63,5,1.0,1.0,1.0,1.0,true,points,granted
+SB039,B,1,2026-11-19T10:00:00,5,,,,,,"best",1,0,0.025,0.0,0.5,0.16,false,points,granted
+SC000,C,1,2026-11-19T10:00:00,2,,,,,,"Insurance claim process was a headache, they kept asking for documents again and again.",14,0,0.325,1.0,1.0,0.73,false,discount,granted
+SC001,C,1,2026-11-19T10:00:00,3,,,,,,"nice doctor",2,1,0.2167,0.0,0.5,0.2367,false,discount,granted
+SC003,C,1,2026-11-19T10:00:00,3,,,,,,"ok",1,0,0.025,0.0,1.0,0.31,false,discount,granted
+SC004,C,1,2026-11-19T10:00:00,3,,,,,,"The waiting time is too much as there is a long line to get the slip first then wait outside the doctors cabin this is too serious and the hygiene issues are there and cleanliness is not good",38,3,1.0,1.0,0.5,0.85,true,discount,granted
+SC009,C,1,2026-11-19T10:00:00,2,,,,,,"My last visit to the hospital was satisfactory because the doctor was very understanding and the overall cleanliness of the facility was excellent. However, the waiting time at the reception was quite long, and the billing department took a lot of time to process the payment.",46,5,1.0,1.0,0.5,0.85,true,discount,granted
+SC010,C,1,2026-11-19T10:00:00,5,,,,,,"thanks",1,0,0.025,0.0,0.5,0.16,false,discount,granted
+SC012,C,1,2026-11-19T10:00:00,5,,,,,,"thanks",1,0,0.025,0.0,0.5,0.16,false,discount,granted
+SC013,C,1,2026-11-19T10:00:00,5,,,,,,"very good",2,0,0.05,0.0,1.0,0.32,false,discount,granted
+SC016,C,1,2026-11-19T10:00:00,5,,,,,,"Waiting room was clean and cool, AC was working. Doctor was punctual.",12,3,0.75,1.0,1.0,0.9,true,discount,granted
+SC017,C,1,2026-11-19T10:00:00,4,,,,,,"The last visit was good the doctor attended me with full of concentration but the waiting time is more as i go to a clinic so there is no numbers who sit near the doctor can get the number so it is a bad thing but all other things were good",51,2,0.8333,1.0,1.0,0.9333,true,discount,granted
+SC018,C,1,2026-11-19T10:00:00,5,,,,,,"Dr. was not available at the scheduled time and nobody informed us.",12,1,0.4667,1.0,0.5,0.6367,false,discount,granted
+SC019,C,1,2026-11-19T10:00:00,3,,,,,,"Waiting time was normal, not too long and not too short.",11,1,0.3917,1.0,0.5,0.6067,false,discount,granted
+SC020,C,1,2026-11-19T10:00:00,4,,,,,,"I got my token and was called in within 10 minutes. Very quick service.",14,0,0.35,1.0,1.0,0.74,false,discount,granted
+SC022,C,1,2026-11-19T10:00:00,5,,,,,,"The doctor was great, staff okay, but the waiting area was dirty.",12,4,0.75,1.0,0.5,0.75,true,discount,granted
+SC024,C,1,2026-11-19T10:00:00,3,,,,,,"Staff behaviour was not good at all. They talk to patients like they are doing a favour.",17,1,0.5667,1.0,0.5,0.6767,false,discount,granted
+SC025,C,1,2026-11-19T10:00:00,5,,,,,,"Well maintained clinic. Washrooms were clean and had soap.",9,1,0.3917,1.0,1.0,0.7567,true,discount,granted
+SC027,C,1,2026-11-19T10:00:00,5,,,,,,"Bill mein kuch charges samajh nahi aaye, receptionist ne bhi theek se nahi bataya.",14,2,0.6583,1.0,0.5,0.7133,false,discount,granted
+SC028,C,1,2026-11-19T10:00:00,2,,,,,,"The waiting hall had bad smell and garbage lying around. Hygiene is poor.",13,2,0.6583,1.0,1.0,0.8633,true,discount,granted
+SC031,C,1,2026-11-19T10:00:00,3,,,,,,"very good",2,0,0.05,0.0,0.5,0.17,false,discount,granted
+SC034,C,1,2026-11-19T10:00:00,2,,,,,,"Long queue, poor management, no one to guide patients. Waited 2 hours.",12,1,0.4667,1.0,1.0,0.7867,true,discount,granted
+SC035,C,1,2026-11-19T10:00:00,4,,,,,,"very good",2,0,0.05,0.0,1.0,0.32,false,discount,granted
+SC037,C,1,2026-11-19T10:00:00,4,,,,,,"best",1,0,0.025,0.0,1.0,0.31,false,discount,granted
+SC038,C,1,2026-11-19T10:00:00,2,,,,,,"Doctor was rude and arrogant, refused to answer my questions.",10,2,0.5833,1.0,1.0,0.8333,true,discount,granted
+SD004,D,1,2026-11-19T10:00:00,4,,,,,,"All thing",2,0,0.05,1.0,0.5,0.47,false,points,withheld
+SD010,D,1,2026-11-19T10:00:00,4,,,,,,"Silence and nothing else",4,0,0.1,1.0,0.5,0.49,false,points,withheld
+SD013,D,1,2026-11-19T10:00:00,5,,,,,,"The clinic was extremely clean, and the doctor was very helpful and listened carefully to my concerns. However, the waiting time was quite long, and the billing process at the counter took a bit too much time",37,5,1.0,1.0,1.0,1.0,true,points,granted
+SD015,D,1,2026-11-19T10:00:00,5,,,,,,"doc was very rude n staff also, never goin again",10,1,0.4167,1.0,0.0,0.4667,false,points,withheld
+SD018,D,1,2026-11-19T10:00:00,4,,,,,,"Good doctor, bad management.",4,1,0.2667,1.0,0.5,0.5567,false,points,withheld
+SD019,D,1,2026-11-19T10:00:00,5,,,,,,"very good",2,0,0.05,0.0,1.0,0.32,false,points,withheld
+SD021,D,1,2026-11-19T10:00:00,5,,,,,,"nice",1,0,0.025,0.0,1.0,0.31,false,points,withheld
+SD022,D,1,2026-11-19T10:00:00,5,,,,,,"I recently needed to go to doctor, i visited a large hospital, the cleanliness was top notch, staff behaviour was good, and also the behaviour of doctors were also good.",30,3,1.0,1.0,1.0,1.0,true,points,granted
+SD024,D,1,2026-11-19T10:00:00,5,,,,,,"Doctor was very kind and listened to all my problems patiently. Nurse also behaved nicely.",15,2,0.7083,1.0,1.0,0.8833,true,points,granted
+SD025,D,1,2026-11-19T10:00:00,3,,,,,,"The washroom was filthy and smelled terrible. Everything else was okay.",11,1,0.4167,1.0,0.5,0.6167,false,points,withheld
+SD026,D,1,2026-11-19T10:00:00,5,,,,,,"Staff at the counter were rude and kept shouting at patients. Doctor was fine.",14,2,0.6583,1.0,0.0,0.5633,false,points,withheld
+SD028,D,1,2026-11-19T10:00:00,4,,,,,,"I visit in a Private hospital where cleanliness is good which is most important thing and secondly the staf and the doctors are very humble and kind, the only thing I don't like that is their tests and medicine are very expensive everyone can't afford them.",48,3,1.0,1.0,1.0,1.0,true,points,granted
+SD031,D,1,2026-11-19T10:00:00,3,,,,,,"thanks",1,0,0.025,0.0,1.0,0.31,false,points,withheld
+SD032,D,1,2026-11-19T10:00:00,3,,,,,,"Mera experience theek tha. Na bahut achha na bura.",9,0,0.2,1.0,1.0,0.68,false,points,withheld
+SD033,D,1,2026-11-19T10:00:00,4,,,,,,"The clinic was just okay in terms of cleanliness, could be better.",12,1,0.4667,1.0,0.5,0.6367,false,points,withheld
+SD036,D,1,2026-11-19T10:00:00,4,,,,,,"best",1,0,0.025,0.0,1.0,0.31,false,points,withheld
+SD038,D,1,2026-11-19T10:00:00,5,,,,,,"Nurse aur staff bahut ache the, sab ne madad ki. Safai bhi acchi thi.",14,1,0.5167,1.0,0.5,0.6567,false,points,withheld
